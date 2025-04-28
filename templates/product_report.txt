@@ -1,0 +1,20 @@
+
+# {{ product_name }} Analysis Report
+**Date**: {{ date }}
+**Prepared by**: {{ author }}
+
+## Executive Summary
+{{ executive_summary }}
+
+## Product Details
+{{ product_details }}
+
+## Market Analysis
+{{ market_analysis }}
+
+## Recommendations
+{{ recommendations }}
+
+## Conclusion
+{{ conclusion }}
+    

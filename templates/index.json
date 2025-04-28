@@ -1,0 +1,35 @@
+{
+  "customer_complaint_response": {
+    "path": "customer_complaint_response.txt",
+    "description": "Default customer complaint response template",
+    "category": "default",
+    "source": "default"
+  },
+  "product_report": {
+    "path": "product_report.txt",
+    "description": "Default product report template",
+    "category": "default",
+    "source": "default"
+  },
+  "technical_document": {
+    "path": "technical_document.txt",
+    "description": "Template for technical document",
+    "category": "searched",
+    "source": "web_search",
+    "date_added": "2025-04-28 00:39:32"
+  },
+  "informative_report": {
+    "path": "informative_report.txt",
+    "description": "Template for technical document",
+    "category": "searched",
+    "source": "web_search",
+    "date_added": "2025-04-28 00:39:42"
+  },
+  "letter_to_friend": {
+    "path": "letter_to_friend.txt",
+    "description": "Template for letter to friend",
+    "category": "searched",
+    "source": "web_search",
+    "date_added": "2025-04-28 00:59:56"
+  }
+}

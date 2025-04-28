@@ -1,0 +1,31 @@
+{{ sender_name }}
+{{ sender_address }}
+{{ sender_city }}, {{ sender_state }} {{ sender_zip }}
+
+{{ date }}
+
+{{ recipient_name }}
+{{ recipient_address }}
+{{ recipient_city }}, {{ recipient_state }} {{ recipient_zip }}
+
+
+Dear {{ recipient_name }},
+
+
+{{ opening_paragraph }}
+
+
+{{ body_paragraph_1 }}
+
+
+{{ body_paragraph_2 }}
+
+
+{{ closing_paragraph }}
+
+
+Sincerely,
+
+
+{{ sender_signature }} 
+{{ sender_name_typed }}

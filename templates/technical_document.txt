@@ -1,0 +1,63 @@
+---
+title: {{ title }}
+author: {{ author }}
+version: {{ version }}
+date: {{ date }}
+---
+
+# {{ title }}
+
+## Introduction
+
+{{ introduction }}
+
+## Requirements
+
+{{ requirements }}
+
+## Design
+
+{{ design }}
+
+## Implementation
+
+{{ implementation }}
+
+## Testing
+
+### Test Cases
+
+{% for testcase in testcases %}
+* {{ testcase.name }}: {{ testcase.description }}
+{% endfor %}
+
+### Test Results
+
+{{ test_results }}
+
+## Deployment
+
+{{ deployment }}
+
+## Usage
+
+{{ usage_instructions }}
+
+## Troubleshooting
+
+{% for issue in troubleshooting %}
+* **Problem:** {{ issue.problem }}
+* **Solution:** {{ issue.solution }}
+{% endfor %}
+
+## Known Issues
+
+{{ known_issues }}
+
+## Future Work
+
+{{ future_work }}
+
+## Appendix
+
+{{ appendix }}

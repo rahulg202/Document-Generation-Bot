@@ -1,0 +1,13 @@
+
+Dear {{ customer_name }},
+
+Thank you for bringing your concerns to our attention regarding {{ issue_summary }}. We at {{ company_name }} take all customer feedback seriously.
+
+{{ detailed_response }}
+
+If you have any further questions or concerns, please don't hesitate to contact us at {{ contact_info }}.
+
+Sincerely,
+{{ agent_name }}
+{{ company_name }}
+    

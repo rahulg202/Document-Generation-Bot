@@ -1,0 +1,46 @@
+---
+title: {{ report_title }}
+date: {{ report_date }}
+author: {{ report_author }}
+---
+
+# {{ report_title }}
+
+## Executive Summary
+
+{{ executive_summary }}
+
+
+## Introduction
+
+{{ introduction }}
+
+
+## Methodology
+
+{{ methodology }}
+
+
+## Findings
+
+{{ findings }}
+
+
+## Discussion
+
+{{ discussion }}
+
+
+## Conclusion
+
+{{ conclusion }}
+
+
+## Recommendations
+
+{{ recommendations }}
+
+
+## Appendix
+
+{{ appendix }}
