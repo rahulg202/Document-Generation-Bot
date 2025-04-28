@@ -24,8 +24,7 @@ A powerful Streamlit application that leverages Generative AI to create custom d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/genai-document-generator.git
-   cd genai-document-generator
+   git clone https://github.com/rahulg202/Document-Generation-Bot.git
    ```
 
 2. Install dependencies:
